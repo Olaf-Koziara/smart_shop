@@ -391,7 +391,9 @@ body {
     font-size: 0.8rem;
 }
 
-
+.product__footer {
+    margin-top: auto;
+}
 
 .button {
     border: none;
