@@ -1,0 +1,146 @@
+[
+  {
+    "id": 2111,
+    "name": "Inteligentna Żarówka LED RGBW",
+    "price": 69.99,
+    "image": "https://picsum.photos/seed/2111/300/300"
+  },
+  {
+    "id": 2112,
+    "name": "Gniazdko Wi-Fi z Pomiarem Energii",
+    "price": 89.99,
+    "image": "https://picsum.photos/seed/2112/300/300"
+  },
+  {
+    "id": 2113,
+    "name": "Czujnik Ruchu PIR Zigbee",
+    "price": 59.99,
+    "image": "https://picsum.photos/seed/2113/300/300"
+  },
+  {
+    "id": 2114,
+    "name": "Termostat Smart Wi-Fi",
+    "price": 249.99,
+    "image": "https://picsum.photos/seed/2114/300/300"
+  },
+  {
+    "id": 2115,
+    "name": "Kamera IP Wewnętrzna Full HD",
+    "price": 199.99,
+    "image": "https://picsum.photos/seed/2115/300/300"
+  },
+  {
+    "id": 2116,
+    "name": "Inteligentny Zamek do Drzwi",
+    "price": 499.99,
+    "image": "https://picsum.photos/seed/2116/300/300"
+  },
+  {
+    "id": 2117,
+    "name": "Czujnik Otwarcia Drzwi/Okien",
+    "price": 45.00,
+    "image": "https://picsum.photos/seed/2117/300/300"
+  },
+  {
+    "id": 2118,
+    "name": "Głośnik Inteligentny z Asystentem",
+    "price": 179.00,
+    "image": "https://picsum.photos/seed/2118/300/300"
+  },
+  {
+    "id": 2119,
+    "name": "Sterownik Rolet Wi-Fi",
+    "price": 129.99,
+    "image": "https://picsum.photos/seed/2119/300/300"
+  },
+  {
+    "id": 2120,
+    "name": "Stacja Pogodowa Smart",
+    "price": 299.00,
+    "image": "https://picsum.photos/seed/2120/300/300"
+  },
+  {
+    "id": 2121,
+    "name": "Pilot Uniwersalny IR/RF Wi-Fi",
+    "price": 99.99,
+    "image": "https://picsum.photos/seed/2121/300/300"
+  },
+  {
+    "id": 2122,
+    "name": "Wideodomofon Wi-Fi",
+    "price": 349.00,
+    "image": "https://picsum.photos/seed/2122/300/300"
+  },
+  {
+    "id": 2123,
+    "name": "Inteligentny Czujnik Dymu Wi-Fi",
+    "price": 149.50,
+    "image": "https://picsum.photos/seed/2123/300/300"
+  },
+  {
+    "id": 2124,
+    "name": "Panel Dotykowy Ścienny Zigbee",
+    "price": 215.00,
+    "image": "https://picsum.photos/seed/2124/300/300"
+  },
+  {
+    "id": 2125,
+    "name": "Czujnik Zalania Wodą",
+    "price": 65.90,
+    "image": "https://picsum.photos/seed/2125/300/300"
+  },
+  {
+    "id": 2126,
+    "name": "Listwa Zasilająca Smart 4 Gniazda USB",
+    "price": 139.99,
+    "image": "https://picsum.photos/seed/2126/300/300"
+  },
+  {
+    "id": 2127,
+    "name": "Głowica Termostatyczna Radiowa Bluetooth",
+    "price": 189.00,
+    "image": "https://picsum.photos/seed/2127/300/300"
+  },
+  {
+    "id": 2128,
+    "name": "Kamera IP Zewnętrzna PTZ 4MP",
+    "price": 449.00,
+    "image": "https://picsum.photos/seed/2128/300/300"
+  },
+  {
+    "id": 2129,
+    "name": "Taśma LED RGBIC Wi-Fi 5m",
+    "price": 109.99,
+    "image": "https://picsum.photos/seed/2129/300/300"
+  },
+  {
+    "id": 2130,
+    "name": "Inteligentny Włącznik Światła Podwójny Dotyk",
+    "price": 94.50,
+    "image": "https://picsum.photos/seed/2130/300/300"
+  },
+  {
+    "id": 2131,
+    "name": "Czujnik Temperatury i Wilgotności LCD",
+    "price": 55.00,
+    "image": "https://picsum.photos/seed/2131/300/300"
+  },
+  {
+    "id": 2132,
+    "name": "Mostek/Bramka Zigbee 3.0 LAN",
+    "price": 219.99,
+    "image": "https://picsum.photos/seed/2132/300/300"
+  },
+  {
+    "id": 2133,
+    "name": "Syrena Alarmowa Wewnętrzna Zigbee 100dB",
+    "price": 125.00,
+    "image": "https://picsum.photos/seed/2133/300/300"
+  },
+  {
+    "id": 2134,
+    "name": "Przycisk Bezprzewodowy Scen Smart",
+    "price": 39.99,
+    "image": "https://picsum.photos/seed/2134/300/300"
+  }
+]
