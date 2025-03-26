@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
         img.alt = product.name;
         img.loading = "lazy";
         img.onerror = () => {
-            img.src = "placeholder.jpg";
+            img.src = "https://placehold.co/300x300";
             img.alt = "Brak obrazka";
         };
 
