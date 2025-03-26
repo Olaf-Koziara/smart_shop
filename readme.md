@@ -1,6 +1,6 @@
 # SklepSmart
 
-Prosty projekt front-endowy sklepu ze smart urządzeniami.
+Prosty projekt front-endowy sklepu ze smart urządzeniami. Preview link https://67e304cbb1781b1cefdf2251--smart-shop-net.netlify.app/
 
 ## Wymagania Wstępne
 
